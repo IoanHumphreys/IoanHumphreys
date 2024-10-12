@@ -1,7 +1,7 @@
 # Welcome, I'm Ioan Humphreys 👋
 United Kingdom - Wales 📌
 
-Developer specializing in frontend with strong backend skills.
+A friendly developer specializing in frontend and with strong backend skills.
 
 ## Notable Project: JMAP
 

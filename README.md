@@ -27,3 +27,5 @@ Currently studying in Coleg Sir Gar Level 2 BTEC in Computing
 [<img alt="npm" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/npm_vector.svg">](https://www.npmjs.com/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IoanHumphreys&show_icons=true&locale=en&layout=compact&theme=prussian" alt="Top Languages" />
+
+![snake-repo](https://raw.githubusercontent.com/IoanHumphreys/IoanHumphreys/94db525af4329a1d46bf81dcc745907d45c89575/snake.svg)

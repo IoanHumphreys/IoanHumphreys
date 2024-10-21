@@ -20,7 +20,7 @@ Currently studying in Coleg Sir Gar Level 2 BTEC in Computing
 [![djs-logo](https://raw.githubusercontent.com/IoanHumphreys/IoanHumphreys/5a8ca06bb3439fca725aa719c3a281ccc084dea5/assets/discordjs-logo.svg)](https://www.javascript.com/)
 [![mongodb-logo](https://raw.githubusercontent.com/IoanHumphreys/IoanHumphreys/5a8ca06bb3439fca725aa719c3a281ccc084dea5/assets/mongo.svg)](https://www.mongodb.com/)
 [![lua-logo](https://raw.githubusercontent.com/IoanHumphreys/IoanHumphreys/ab1954cb8e8cbe6a9448dce1d4ddda0e99897957/assets/lua-logo.svg)](https://www.lua.org/)
-[![c#-logo](https://raw.githubusercontent.com/IoanHumphreys/IoanHumphreys/349b8a20532cc7d7818bb1022254ff077ee1b35b/assets/c%23-logo.svg)]([https://www.lua.org](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps)/)
+[![c#-logo](https://raw.githubusercontent.com/IoanHumphreys/IoanHumphreys/9d6d8cd0dd90a6b0ab54a3fc1164129acec7bfcf/assets/c%23-logo.svg)]([https://www.lua.org](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps)/)
 
 ### Development Tools 🔨
 [![github-logo](https://github.com/user-attachments/assets/53f3314e-1095-4187-ac35-b6a98350403f)](https://github.com/IoanHumphreys/IoanHumphreys)

@@ -29,7 +29,7 @@ Currently studying in Coleg Sir Gar Level 2 BTEC in Computing
 [![figma-logo](https://camo.githubusercontent.com/7f0a31ba50bfac03069490080b0d789ba6a9738b9b6d68645aeaf174d122bc14/68747470733a2f2f6c69656f6e73747564696f732e6769746875622e696f2f6173736574732f76312f62616467652f636f6d706163742d6d696e696d616c2f7376672f6669676d612e737667)]([https://www.lua.org/](https://figma.com/))
 
 ![github-status](https://github-readme-stats.vercel.app/api?username=IoanHumphreys&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&custom_title=My%20GitHub%20Stats)&nbsp;&nbsp;&nbsp;&nbsp;
-![github-langs](https://github-readme-stats.vercel.app/api/top-langs?username=IoanHumphreys&show_icons=true&locale=en&layout=compact&theme=github_dark&custom_title=Languages%20I%20Use)
+![github-langs](https://github-readme-stats.vercel.app/api/top-langs?username=IoanHumphreys&show_icons=true&locale=en&layout=compact&theme=github_dark&custom_title=Used%20Languages)
 
 ### Snake Commits 🐍
 ![snake-repo](https://raw.githubusercontent.com/IoanHumphreys/IoanHumphreys/94db525af4329a1d46bf81dcc745907d45c89575/snake.svg)

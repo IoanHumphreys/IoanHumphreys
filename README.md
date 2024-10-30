@@ -9,7 +9,7 @@ Currently studying in Coleg Sir Gar Level 2 BTEC in Computing
 - JSON to Text file converter for Unreal Engine
 - Built with Python, Django, and Discord OAuth2
 - 50k+ views, 1,400+ members, Large Influencers Recognized
-- Over £3,000 in revenue
+- Over £6,000 in gross revenue
 
 ### Languages 🌍
 [![vite-logo](https://github.com/user-attachments/assets/cb9ef3ca-c2d7-45d1-976c-f045436b4e0f)](https://vite.dev/)

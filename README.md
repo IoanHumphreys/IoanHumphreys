@@ -8,7 +8,7 @@ Currently studying in Coleg Sir Gar Level 2 BTEC in Computing
 
 - JSON to Text file converter for Unreal Engine
 - Built with Python, Django, and Discord OAuth2
-- 80+ views, 1,400+ members, Large Influencers Recognized
+- 100k+ views, 1,400+ members, Large Influencers Recognized
 - Over £6,000 in gross revenue
 
 ### Languages 🌍

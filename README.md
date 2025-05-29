@@ -68,4 +68,6 @@ A powerful tool that bridges the gap between JSON data and Unreal Engine text fi
 - 🎮 Passionate about game development and interactive experiences
 - 📫 Reach out for project discussions or technical consultations
 
+  Contact Me: ioanrhyshumph@gmail.com
+
 **"Building digital experiences that make a difference"**

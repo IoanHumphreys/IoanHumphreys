@@ -1,9 +1,5 @@
 ### Welcome, I'm Ioan Humphreys 👋
 
-**Coleg Sir Gar 2024 - Wales** 📌
-
-Currently studying in Coleg Sir Gar Level 2 BTEC in Computing
-
 ### Notable Project: JMAP
 
 - JSON to Text file converter for Unreal Engine

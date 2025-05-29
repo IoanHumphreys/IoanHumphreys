@@ -1,7 +1,6 @@
 # Welcome, I'm Ioan Humphreys 👋
 
-**Full-Stack Developer** | **Game Development Enthusiast** | **Python & JavaScript Specialist**
-
+**Full-Stack Developer** | **Game Development & Frontend Enthusiast** |
 ---
 
 ## 🚀 Featured Project: JMAP

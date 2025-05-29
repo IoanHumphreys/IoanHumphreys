@@ -13,7 +13,7 @@ A powerful tool that bridges the gap between JSON data and Unreal Engine text fi
 **📈 Impact:** 100k+ views, 1,400+ community members, recognized by major influencers  
 **💰 Revenue:** Over £6,500 in gross revenue  
 
-[🔗 View Project](#) | [📖 Documentation](#)
+[🔗 View Project](https://github.com/IoanHumphreys/JMAP) | [📖 Documentation](https://discord.gg/xMk2NargfJ)
 
 ---
 
